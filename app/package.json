@@ -13,7 +13,7 @@
     "express": "^4.18.1"
   },
   "bin": {
-    "login-study": "bin/www.js"
+    "login-study": "nodemon .bin/www.js"
   },
   "devDependencies": {},
   "keywords": [],
